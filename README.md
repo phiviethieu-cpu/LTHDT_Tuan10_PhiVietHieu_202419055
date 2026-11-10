@@ -18,7 +18,8 @@ mvn test        # chạy kiểm thử
 
 ## Sơ đồ lớp UML
 
-_(sẽ bổ sung)_
+File nguồn: [SmartHomeMini_ClassDiagram.drawio](SmartHomeMini_ClassDiagram.drawio)
+(mở bằng <https://app.diagrams.net> hoặc extension Draw.io Integration trong VS Code).
 
 ## Vị trí sử dụng pattern
 
