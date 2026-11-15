@@ -1,3 +1,7 @@
+/****************
+ * Mã sinh viên: 202419055
+ * Họ tên: Phí Việt Hiếu
+ ****************/
 package smarthome;
 
 import static org.junit.jupiter.api.Assertions.assertEquals;
@@ -18,6 +22,9 @@ import org.junit.jupiter.api.AfterEach;
 import org.junit.jupiter.api.DisplayName;
 import org.junit.jupiter.api.Test;
 
+/**
+ * Kiểm thử Singleton: T3 (mọi lần lấy đều là cùng một đối tượng).
+ */
 class HomeConfigurationTest {
 
     // Singleton giữ trạng thái giữa các test nên phải trả về giá trị mặc định sau mỗi test

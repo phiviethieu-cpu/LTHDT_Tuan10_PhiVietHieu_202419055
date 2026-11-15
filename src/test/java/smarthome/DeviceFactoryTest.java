@@ -1,3 +1,7 @@
+/****************
+ * Mã sinh viên: 202419055
+ * Họ tên: Phí Việt Hiếu
+ ****************/
 package smarthome;
 
 import static org.junit.jupiter.api.Assertions.assertEquals;
@@ -8,6 +12,9 @@ import static org.junit.jupiter.api.Assertions.assertTrue;
 import org.junit.jupiter.api.DisplayName;
 import org.junit.jupiter.api.Test;
 
+/**
+ * Kiểm thử Factory: T1 (tạo đúng kiểu thiết bị) và T2 (loại chưa hỗ trợ ném lỗi).
+ */
 class DeviceFactoryTest {
 
     @Test

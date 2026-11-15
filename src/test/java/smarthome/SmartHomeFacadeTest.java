@@ -1,3 +1,7 @@
+/****************
+ * Mã sinh viên: 202419055
+ * Họ tên: Phí Việt Hiếu
+ ****************/
 package smarthome;
 
 import static org.junit.jupiter.api.Assertions.assertFalse;
@@ -12,6 +16,9 @@ import org.junit.jupiter.api.BeforeEach;
 import org.junit.jupiter.api.DisplayName;
 import org.junit.jupiter.api.Test;
 
+/**
+ * Kiểm thử Facade: T4 (chế độ đi làm) và T5 (chế độ đi ngủ).
+ */
 class SmartHomeFacadeTest {
 
     private SmartLight light;
